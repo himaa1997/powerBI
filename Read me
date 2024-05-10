@@ -1,0 +1,4 @@
+This is a sample report for analysing the sales of a company. The raw data can be found in the file named 'Sample_Superstore_PowerBI_FTC.xls'.
+The first page is an overview of the company.
+Next 4 pages are the same KPIs and reports generated for the different regions - Central, West, East and South. At the top, you can find the names of the people managing these regions.
+The last page is the forecasting of the sales for the next 2 quarters. 
